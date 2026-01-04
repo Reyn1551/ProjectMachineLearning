@@ -4,7 +4,7 @@ A Machine Learning application to predict customer churn in the telecommunicatio
 
 ---
 
-## 🇬🇧 English Documentation
+## English Documentation
 
 ### Overview
 This project aims to identify customers who are likely to cancel their subscription (churn). By analyzing customer demographics, services, and account information, the application provides business insights and strategic recommendations to improve customer retention.
